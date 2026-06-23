@@ -121,7 +121,7 @@
 │                                                                               │
 │  ┌─────────────────────────────────────────────────────────────────────┐   │
 │  │ Elasticsearch Cluster                                                │   │
-│  │ URL: https://udaytest-fe14f3.es.us-east-1.aws.elastic.cloud         │   │
+│  │ URL: https://your-deployment.es.us-east-1.aws.elastic.cloud         │   │
 │  │                                                                       │   │
 │  │ Indices:                                                              │   │
 │  │                                                                       │   │

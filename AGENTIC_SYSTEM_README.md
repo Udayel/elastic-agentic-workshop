@@ -82,7 +82,7 @@ This is a **real agentic AI application** built with:
 ┌───────────▼─────────────────────────────────────────────────────┐
 │             Elastic Cloud (Your Deployment)                      │
 │                                                                   │
-│  URL: https://udaytest-fe14f3.es.us-east-1.aws.elastic.cloud   │
+│  URL: https://your-deployment.es.us-east-1.aws.elastic.cloud   │
 │  Auth: API Key (secured in AWS Secrets Manager)                 │
 │                                                                   │
 │  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐│
