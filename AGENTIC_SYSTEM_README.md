@@ -274,9 +274,8 @@ aws configure
 # Region: us-east-1
 
 # 2. Elastic deployment ready
-# URL: https://udaytest-fe14f3.es.us-east-1.aws.elastic.cloud:443
-# API Key: VEtTYmY1NEI5RE5GclloQjdfUU86TkxBVVNES0RCQUxtbGhBd3EtR2sxdw==
-
+# URL: <Enter your URL>
+# API Key: <Enter your apikey>
 # 3. Python 3.11+
 python3 --version
 ```
