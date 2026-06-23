@@ -1,0 +1,15 @@
+# Minimal Requirements - Actually Used Packages
+# Install with: pip install -r requirements-minimal.txt
+
+# Core (Required)
+elasticsearch==8.15.0
+python-dotenv==1.0.1
+
+# AWS (Optional - only if using Bedrock/Cognito)
+boto3==1.34.70
+
+# Async HTTP (Optional - only if using AgentCore)
+httpx==0.26.0
+
+# Development
+pytest==8.0.0
