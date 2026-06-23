@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(__file__))
 
-from agents.hybrid_customer_support import HybridCustomerSupportAgent
+from agents.simple_customer_support import SimpleCustomerSupportAgent
 
 load_dotenv()
 
@@ -117,8 +117,7 @@ def main():
 
     # Initialize agent
     try:
-        agent = HybridCustomerSupportAgent(
-            name="CustomerSupport",
+        agent = SimpleCustomerSupportAgent(
             session_id=session_id,
             customer_id=customer_id
         )
